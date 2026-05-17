@@ -1,0 +1,9 @@
+==============================
+The d2s1 Visual Novel Engine
+==============================
+
+Getting Started
+
+d2s1 is a simple visual novel engine written in C++ and DS Script. For novels you can use only DS Script. d2s1 using MIT license. Fun fact: DS Script was created specifically for the d2s1 engine
+
+The development scripts assume a POSIX-like platform. The scripts should run on Linux or macOS, and can be made to run on Windows using an environment like MSYS. More about creating novels and more you can look at the official GitHub wiki

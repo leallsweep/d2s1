@@ -1,0 +1,23 @@
+# Build directories
+build/
+bin/
+lib/
+cmake-build*/
+out/
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+d2s1
+
+# OS junk
+.DS_Store
+Thumbs.db

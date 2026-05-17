@@ -1,0 +1,27 @@
+====================
+Contributing to d2s1
+====================
+
+= Bugs and suggestions =
+
+Report bugs or suggest features via GitHub Issues.
+
+= Pull requests =
+
+1. Fork the repository
+2. Create a branch: git checkout -b feature-name
+3. Make your changes
+4. Test that the engine still works
+5. Commit and push
+6. Open a Pull Request
+
+= Code style =
+
+- Use C++17
+- No unnecessary comments
+- Keep functions short
+- Use SFML for graphics
+
+= Questions =
+
+Open an issue or contact the author.
