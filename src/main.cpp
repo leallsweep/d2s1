@@ -2,13 +2,23 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include "portable-file-dialogs.h"
 
 int main(int argc, char* argv[]) {
-    if (argc < 2) {
-        return 1;
+    std::string filename;
+    
+    if (argc >= 2) {
+        filename = argv[1];
+    } else {
+        auto dialog = pfd::open_file("Select DS Script", "", {"DS Script", "*.ds"});
+        auto result = dialog.result();
+        if (result.empty()) {
+            return 1;
+        }
+        filename = result[0];
     }
     
-    std::ifstream file(argv[1]);
+    std::ifstream file(filename);
     if (!file.is_open()) {
         return 1;
     }
