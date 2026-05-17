@@ -2,6 +2,26 @@
 The d2s1 Visual Novel Engine
 ==============================
 
+                                                                     
+            dddddddd                                                 
+            d::::::d 222222222222222                       1111111   
+            d::::::d2:::::::::::::::22                    1::::::1   
+            d::::::d2::::::222222:::::2                  1:::::::1   
+            d:::::d 2222222     2:::::2                  111:::::1   
+    ddddddddd:::::d             2:::::2     ssssssssss      1::::1   
+  dd::::::::::::::d             2:::::2   ss::::::::::s     1::::1   
+ d::::::::::::::::d          2222::::2  ss:::::::::::::s    1::::1   
+d:::::::ddddd:::::d     22222::::::22   s::::::ssss:::::s   1::::l   
+d::::::d    d:::::d   22::::::::222      s:::::s  ssssss    1::::l   
+d:::::d     d:::::d  2:::::22222           s::::::s         1::::l   
+d:::::d     d:::::d 2:::::2                   s::::::s      1::::l   
+d:::::d     d:::::d 2:::::2             ssssss   s:::::s    1::::l   
+d::::::ddddd::::::dd2:::::2       222222s:::::ssss::::::s111::::::111
+ d:::::::::::::::::d2::::::2222222:::::2s::::::::::::::s 1::::::::::1
+  d:::::::::ddd::::d2::::::::::::::::::2 s:::::::::::ss  1::::::::::1
+   ddddddddd   ddddd22222222222222222222  sssssssssss    111111111111
+                                                                     
+                                                                     
 Getting Started
 
 d2s1 is a simple visual novel engine written in C++ and DS Script. For novels you can use only DS Script. d2s1 using MIT license. Fun fact: DS Script was created specifically for the d2s1 engine
