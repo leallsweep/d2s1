@@ -21,3 +21,6 @@ d2s1
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Extra
+*.ds
